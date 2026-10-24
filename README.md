@@ -21,7 +21,7 @@ An interactive dashboard to explore restaurant ratings, locations, cuisines, pri
 
 ### 🚀 Live Demo
 
-[**Click here to view the Live Dashboard**](siddhi-zomato-analysis-2026.streamlit.app/)
+[**Click here to view the Live Dashboard**](https://siddhi-zomato-analysis-2026.streamlit.app/)
 
 ### 🛠️ Technologies Used
 
